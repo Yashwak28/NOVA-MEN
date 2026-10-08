@@ -1,0 +1,4 @@
+campaign_id,platform,spend,impressions,clicks,CTR,conversions
+101,Google Ads,500.00,25000,1200,0.048,50
+102,Facebook Ads,300.00,15000,800,0.053,35
+103,LinkedIn Ads,450.00,10000,400,0.040,20

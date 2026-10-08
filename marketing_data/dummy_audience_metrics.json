@@ -1,0 +1,14 @@
+{
+  "audience_segments": [
+    {
+      "segment": "Tech Enthusiasts",
+      "size": 150000,
+      "engagement_rate": 0.08
+    },
+    {
+      "segment": "Small Business Owners",
+      "size": 85000,
+      "engagement_rate": 0.06
+    }
+  ]
+}
