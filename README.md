@@ -71,3 +71,24 @@ In today's fast-paced digital landscape, marketing teams often struggle with dat
 - Autonomous AI agent for dynamic A/B testing of ad variations.
 - Real-time sentiment analysis on social media comments and mentions.
 - Enhanced CRM integration (Salesforce, HubSpot) for end-to-end lead tracking.
+
+## 🎬 Project Demo
+
+Explore **NOVA MEN**, an AI-assisted digital marketing automation prototype designed around a Dubai-focused men's grooming brand.
+
+The project brings together a branded website and AI-assisted marketing tools for competitor analysis, customer personas, SEO planning, content generation, and marketing reports.
+
+### Watch the Demo
+
+[▶️ Watch the NOVA MEN Showcase](demo/NOVA_MEN_Showcase_Captioned.mp4)
+
+**Project website:** https://novamenae.netlify.app
+
+**Key highlights**
+- Premium, animated website experience
+- AI-assisted competitor analysis
+- SEO brief and content generation
+- Customer persona exploration
+- Digital marketing workflow and reporting
+
+*This is an independent student portfolio project.*
